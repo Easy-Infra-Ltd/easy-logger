@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Easy-Infra-Ltd/easy-test/internal/assert"
+	"github.com/Easy-Infra-Ltd/assert"
 	"go.opentelemetry.io/otel/sdk/resource"
 )
 

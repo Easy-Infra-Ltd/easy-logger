@@ -10,7 +10,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Easy-Infra-Ltd/easy-test/internal/assert"
+	"github.com/Easy-Infra-Ltd/assert"
 )
 
 var processColour int64 = lightGray
